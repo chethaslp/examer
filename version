@@ -1,4 +1,6 @@
 {
   "ver":1.0,
-  "important": true
+  "important": true,
+  "kill": 0,
+  "kill_msg":""
 }
