@@ -1,6 +1,6 @@
 {
-  "current_ver":1.0,
+  "ver":1.0,
   "important": true,
   "kill": "0",
-  "kill_msg":""
+  "kill_msg":"Test Kill. LOL"
 }
