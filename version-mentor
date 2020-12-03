@@ -1,6 +1,6 @@
 {
   "current_ver":1.0,
   "important": true,
-  "kill": 0,
+  "kill": "0",
   "kill_msg":""
 }
